@@ -1,0 +1,21 @@
+{
+    "customer": {
+        "name": "Eswar",
+        "email": "eswar3d4@gmail.com",
+        "gender": "male",
+        "productList": [
+            {
+                "pid": 3,
+                "productName": "Cloths",
+                "quantity": 3,
+                "price": 8000
+            },
+            {
+                "pid": 4,
+                "productName": "matresses",
+                "quantity": 4,
+                "price": 100000
+            }
+        ]
+    }
+}
